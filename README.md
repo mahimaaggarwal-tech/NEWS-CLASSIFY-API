@@ -34,8 +34,8 @@ A FastAPI-based application for collecting and classifying news articles from va
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/mahima1321/NEWS-CLASSIFY-API.git
+   cd NEWS-CLASSIFY-API
 
 2. Build and run the application using Docker Compose:
     docker compose up --build
