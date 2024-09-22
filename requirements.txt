@@ -1,0 +1,15 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+feedparser==6.0.10
+joblib==1.4.0
+psycopg2-binary==2.9.6  # For PostgreSQL
+SQLAlchemy==2.0.21  # For ORM
+pytest==7.4.0  # For testing
+celery==5.2.7
+redis==5.0.1
+alembic
+httpx
+pytest
+scikit-learn
+requests==2.31.0
+

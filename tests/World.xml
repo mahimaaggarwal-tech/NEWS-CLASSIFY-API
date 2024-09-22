@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2024 The New York Times Company</copyright>
+    <lastBuildDate>Sat, 21 Sep 2024 16:12:11 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2024 16:08:07 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>How a U.S. Ally Uses Aid as a Cover in War</title>
+      <link>https://www.nytimes.com/2024/09/21/world/africa/uae-sudan-civil-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/africa/uae-sudan-civil-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/africa/uae-sudan-civil-war.html" rel="standout"></atom:link>
+      <description>The United Arab Emirates is expanding a covert campaign to back a winner in Sudan’s civil war. Waving the banner of the Red Crescent, it is also smuggling weapons and deploying drones.</description>
+      <dc:creator>Declan Walsh and Christoph Koettl</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 14:38:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rapid Support Forces (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darfur (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-video</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/2024-09-20-amdjarass-top-index/2024-09-20-amdjarass-top-index-mediumSquareAt3X.jpg" width="1000"></media:content>
+    </item>
+    <item>
+      <title>Albania Plans to Create a Muslim State in Tirana as Symbol of Tolerance</title>
+      <link>https://www.nytimes.com/2024/09/21/world/europe/albania-tirana-muslim-state-bektashi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/europe/albania-tirana-muslim-state-bektashi.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/europe/albania-tirana-muslim-state-bektashi.html" rel="standout"></atom:link>
+      <description>Prime Minister Edi Rama says he wants to give members of the Bektashi, a Shiite Sufi order, their own Vatican-style enclave as a way of promoting religious tolerance.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 09:03:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rama, Edi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tirana (Albania)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21albania-islam-01-kbpf/21albania-islam-01-kbpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <media:description>The compound in Tirana, the Albanian capital, that would become the Sovereign State of the Bektashi Order.</media:description>
+    </item>
+    <item>
+      <title>Middle East Crisis: Live Updates: With Death Toll Rising, Tensions Run High After Israeli Strike in Beirut</title>
+      <link>https://www.nytimes.com/live/2024/09/21/world/gaza-israel-hamas-hezbollah</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2024/09/21/world/gaza-israel-hamas-hezbollah</guid>
+      <atom:link href="https://www.nytimes.com/live/2024/09/21/world/gaza-israel-hamas-hezbollah" rel="standout"></atom:link>
+      <description>Hezbollah said a senior leader was among those killed, the day after confirming the death of a top commander wanted by the U.S. Lebanon’s Health Ministry said the death toll had risen to at least 37 and included women and children.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 16:04:38 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-promo-12-hflj/21mideast-crisis-promo-12-hflj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Elon Musk’s X Backs Down in Brazil</title>
+      <link>https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html" rel="standout"></atom:link>
+      <description>In an abrupt reversal, the social network’s lawyers said it was complying with court orders that it had previously defied. Brazil’s Supreme Court could allow the site to return next week.</description>
+      <dc:creator>Jack Nicas and Ana Ionova</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 15:33:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Federal Court (Brazil)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/00brazil-x-fpjt/00brazil-x-fpjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <media:description>Brazil’s Supreme Court blocked X last month because its owner, Elon Musk, refused to comply with court orders.</media:description>
+    </item>
+    <item>
+      <title>Israel’s Attacks on Hezbollah Alter Balance of Power in a Long-Running Fight</title>
+      <link>https://www.nytimes.com/2024/09/21/world/middleeast/israel-hezbollah-lebanon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/middleeast/israel-hezbollah-lebanon.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/middleeast/israel-hezbollah-lebanon.html" rel="standout"></atom:link>
+      <description>A focus on mutual deterrence had kept intermittent clashes along the Lebanon-Israel border from spiraling into a major war. That changed this past week.</description>
+      <dc:creator>Ben Hubbard</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 14:56:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/21Hezbollah-assess-top/20mideast-crisis-assess-vlkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hezbollah supporters mourning the deaths of two people after a second wave of explosions followed this week’s pager attack.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Strikes Two More Russian Munition Depots</title>
+      <link>https://www.nytimes.com/2024/09/21/world/europe/ukraine-russia-war-ammunition-depots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/europe/ukraine-russia-war-ammunition-depots.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/europe/ukraine-russia-war-ammunition-depots.html" rel="standout"></atom:link>
+      <description>Strikes on weapons arsenals are crucial to weaken Moscow’s overwhelming superiority in battlefield firepower, analysts said.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 15:51:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21ukraine-attack-01-khjq/21ukraine-attack-01-khjq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian troops during weapons training this month in the eastern Donetsk region.</media:description>
+    </item>
+    <item>
+      <title>Nigel Farage’s Anti-Immigration Party Has Big Plans. Can It See Them Through?</title>
+      <link>https://www.nytimes.com/2024/09/20/world/europe/nigel-farage-reform-uk-conference.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/europe/nigel-farage-reform-uk-conference.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/europe/nigel-farage-reform-uk-conference.html" rel="standout"></atom:link>
+      <description>Nigel Farage, a Trump ally and Brexit champion, thinks Reform U.K. can become a major political force. At a conference on Friday, he sought to explain how.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 11:43:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20uk-farage-02-bfvl/20uk-farage-02-bfvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hollie Adams/Reuters</media:credit>
+      <media:description>Nigel Farage, leader of the Reform U.K. party, at its conference in Birmingham, England, on Friday.</media:description>
+    </item>
+    <item>
+      <title>The Incumbent, the Marxist and the Heir: Sri Lanka’s Tight Race for President</title>
+      <link>https://www.nytimes.com/2024/09/21/world/asia/sri-lanka-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/asia/sri-lanka-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/asia/sri-lanka-election.html" rel="standout"></atom:link>
+      <description>The country will hold its first presidential election on Saturday since its strongman president fled the country two years ago. Here are the main contenders.</description>
+      <dc:creator>Pamodi Waravita</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 16:06:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Premadasa, Sajith</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajapaksa, Gotabaya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wickremesinghe, Ranil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sri Lanka</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21srilanka-explainer-promo/21srilanka-explainer-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dinuka Liyanawatte/Reuters</media:credit>
+    </item>
+    <item>
+      <title>What Is The Radwan Force, the Elite Hezbollah Unit Linked to Ibrahim Aqeel?</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/hezbollah-radwan-ibrahim-aqeel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/hezbollah-radwan-ibrahim-aqeel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/hezbollah-radwan-ibrahim-aqeel.html" rel="standout"></atom:link>
+      <description>The Israeli military considers the force a major threat to its northern border and has portrayed Aqeel, whom it claimed to have killed on Friday, as its de facto commander.</description>
+      <dc:creator>Euan Ward and Adam Rasgon</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 20:15:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/world/20mideast-crisis-radwan-explainer-1/20mideast-crisis-radwan-explainer-1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hassan Ammar/Associated Press</media:credit>
+      <media:description>Fighters wearing the insignia of the Hezbollah’s Radwan force during a training exercise in southern Lebanon in May 2023.</media:description>
+    </item>
+    <item>
+      <title>Lebanese Talk of Revenge for Pager Attacks</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/beirut-lebanon-hezbollah-pagers-hospitals-funerals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/beirut-lebanon-hezbollah-pagers-hospitals-funerals.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/beirut-lebanon-hezbollah-pagers-hospitals-funerals.html" rel="standout"></atom:link>
+      <description>After two days of exploding pagers and walkie-talkies, Beirut was a city on edge, with people worried there were bombs in their bags or pockets. Victims’ relatives vowed retribution.</description>
+      <dc:creator>Hwaida Saad and Ben Hubbard</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 09:04:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20Lebanon-Hezbollah-scene-cmzf/20Lebanon-Hezbollah-scene-cmzf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hezbollah supporters on Thursday surrounded the coffins of two people killed during explosions in Lebanon on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Unmarked Graves at Canada’s Former Indigenous Schools Fuel A Debate</title>
+      <link>https://www.nytimes.com/2024/09/20/canada-indigenous-schools-unmarked-graves.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/canada-indigenous-schools-unmarked-graves.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/canada-indigenous-schools-unmarked-graves.html" rel="standout"></atom:link>
+      <description>Despite possible evidence of hundreds of graves at former schools for Indigenous children, challenges in making a clear conclusion have given rise to skeptics.</description>
+      <dc:creator>Ian Austen and Amber Bracken</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 21:31:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kamloops Indian Residential School (British Columbia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/03/multimedia/00canada-mass-graves-promo/00canada-mass-graves-top-vlwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>The Kamloopa Powwow in Kamloops, British Columbia in June. Since unmarked graves were identified with ground penetrating radar in 2020, there has been a national conversation about the legacy of Residential Schools, but the Tkʼemlúps te Secwépemc community is still working through the aftermath.</media:description>
+    </item>
+    <item>
+      <title>Europe’s New Defense Chief: ‘A King Without a Kingdom’?</title>
+      <link>https://www.nytimes.com/2024/09/20/world/europe/defense-commissioner-military-ukraine-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/europe/defense-commissioner-military-ukraine-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/europe/defense-commissioner-military-ukraine-russia.html" rel="standout"></atom:link>
+      <description>The European Union has vowed to enhance its military capability. But money is scarce, responsibilities overlap and the new job is less about soldiers than arms manufacturers.</description>
+      <dc:creator>Steven Erlanger and Jenny Gross</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 14:55:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Breton, Thierry (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draghi, Mario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kallas, Kaja (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sejourne, Stephane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/20/arts/20eu-defense-afwe/20eu-defense-afwe-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philipp von Ditfurth/Picture Alliance, via Getty Images</media:credit>
+      <media:description>Andrius Kubilius, a former prime minister of Lithuania, has been named as the European Union commissioner for defense.</media:description>
+    </item>
+    <item>
+      <title>E.U. Will Offer $39 Billion Loan for Ukraine Without U.S. Help</title>
+      <link>https://www.nytimes.com/2024/09/20/business/ukraine-aid-russian-assets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/business/ukraine-aid-russian-assets.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/business/ukraine-aid-russian-assets.html" rel="standout"></atom:link>
+      <description>Plans for a larger sum collapsed when Hungary blocked changes requested by Washington as the price for a joint initiative.</description>
+      <dc:creator>Jenny Gross and Constant Méheut</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 13:11:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20eu-ukraine-cfbh/20eu-ukraine-cfbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Christoph Soeder</media:credit>
+      <media:description>Ursula von der Leyen, president of the European Commission, at a war memorial on Friday. She traveled to Kyiv to reassure Ukraine’s president about the bloc’s financial support.</media:description>
+    </item>
+    <item>
+      <title>The Netherlands Returns Hundreds of Cultural Artifacts to Indonesia</title>
+      <link>https://www.nytimes.com/2024/09/20/world/europe/netherlands-indonesia-artifacts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/europe/netherlands-indonesia-artifacts.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/europe/netherlands-indonesia-artifacts.html" rel="standout"></atom:link>
+      <description>The repatriation, the second of its kind by the Dutch, shows a working model for returning looted treasures from Europe to former colonies around the world.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 17:32:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+    </item>
+    <item>
+      <title>Israeli Strike on Former School Kills 22, Gazan Health Officials Say</title>
+      <link>https://www.nytimes.com/2024/09/21/world/middleeast/israel-shelter-strike-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/middleeast/israel-shelter-strike-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/middleeast/israel-shelter-strike-gaza.html" rel="standout"></atom:link>
+      <description>Gaza’s ministry of health said most of those killed in the strike on the Zeitoun School in Gaza City were women and children.</description>
+      <dc:creator>Erika Solomon and Rawan Sheikh Ahmad</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 15:39:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Relief and Works Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1690" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-gaza-school-kwbj/21mideast-crisis-gaza-school-kwbj-mediumSquareAt3X.jpg" width="1690"></media:content>
+      <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Gaza’s rescue services said the Saturday strike on Gaza’s Zeitoun School killed mostly women and children.</media:description>
+    </item>
+    <item>
+      <title>Who Was Ahmed Wahbi, One of the Hezbollah Commanders Killed by an Israeli Airstrike?</title>
+      <link>https://www.nytimes.com/2024/09/21/world/middleeast/who-is-ahmed-wahbi-hezbollah-commander.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/middleeast/who-is-ahmed-wahbi-hezbollah-commander.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/middleeast/who-is-ahmed-wahbi-hezbollah-commander.html" rel="standout"></atom:link>
+      <description>The senior Hezbollah leader trained the group’s elite fighting unit and led its support for Hamas after the Oct. 7 attacks, the Lebanese militia said.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 15:21:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-wahbi-bio-hbpg/21mideast-crisis-wahbi-bio-hbpg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Wael Hamzeh/EPA, via Shutterstock</media:credit>
+      <media:description>Fighters wearing the insignia of the Hezbollah’s Radwan force during a training exercise in southern Lebanon in May 2023.</media:description>
+    </item>
+    <item>
+      <title>For Families of Those Missing After Israeli Strike in Beirut, an Agonizing Wait</title>
+      <link>https://www.nytimes.com/2024/09/21/world/middleeast/beirut-israel-strike-families.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/middleeast/beirut-israel-strike-families.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/middleeast/beirut-israel-strike-families.html" rel="standout"></atom:link>
+      <description>With the death toll rising and rescuers still searching for people beneath the rubble, families were keeping a desperate watch over the site of an Israeli strike in Lebanon.</description>
+      <dc:creator>Hwaida Saad and Erika Solomon</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 14:20:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-beirut-aftermath-cvbf/21mideast-crisis-beirut-aftermath-cvbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Rescue workers on Saturday at a suburban Beirut residential building that was destroyed in an Israeli airstrike a day earlier.</media:description>
+    </item>
+    <item>
+      <title>Shoulder Season</title>
+      <link>https://www.nytimes.com/2024/09/21/briefing/shoulder-season.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/briefing/shoulder-season.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/briefing/shoulder-season.html" rel="standout"></atom:link>
+      <description>It’s still summer today, but fall arrives tomorrow. Take a minute to pause on the threshold.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 10:12:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+    </item>
+    <item>
+      <title>Canadian Doctors Group Apologizes for Health Harms to Indigenous People</title>
+      <link>https://www.nytimes.com/2024/09/21/world/canada/indigenous-health-medical-apology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/canada/indigenous-health-medical-apology.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/canada/indigenous-health-medical-apology.html" rel="standout"></atom:link>
+      <description>Indigenous patients faced abuse, experimental treatments and other harms in Canada’s health system, which still has disparities.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 10:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Medical Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21canadaletter--echaquan-wpjb/21canadaletter--echaquan-wpjb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hubert Hayaud for The New York Times</media:credit>
+      <media:description>The former home of Joyce Echaquan, an Indigenous woman who was mocked and neglected by staff members in a Quebec hospital while she died.</media:description>
+    </item>
+    <item>
+      <title>Car Parts, Fiberglass and a Dream: How a Teacher Built a Hovercraft</title>
+      <link>https://www.nytimes.com/2024/09/21/technology/diy-hovercraft-alberta-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/technology/diy-hovercraft-alberta-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/technology/diy-hovercraft-alberta-canada.html" rel="standout"></atom:link>
+      <description>Robert Tymofichuk, a teacher in Alberta, Canada, spent nearly 2,000 hours building an operational hovercraft from salvaged car parts and with no blueprint.</description>
+      <dc:creator>Emmett Lindner</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 09:40:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sailboats and Sailing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salvage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Alberta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="">hovercraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robert Tymofichuk</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/10/multimedia/00xp-hovercraft-TOP-01-tzpb/00xp-hovercraft-TOP-01-tzpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>It took Robert Tymofichuk, a teacher and assistant principle, a year to build a working hovercraft out of salvaged parts, including a 1997 Jeep Grand Cherokee.</media:description>
+    </item>
+    <item>
+      <title>How the Kremlin Might Get Past RT Bans to Spread Its Message</title>
+      <link>https://www.nytimes.com/2024/09/21/world/europe/russia-rt-social-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/europe/russia-rt-social-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/europe/russia-rt-social-media.html" rel="standout"></atom:link>
+      <description>Social media companies may try to ban RT, the Russian state media broadcaster. But the network has proved in the past to be a wily adversary when confronted with efforts to silence it.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 15:31:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RT (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RT France (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/21/world/21russia-rt/21russia-rt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yuri Kadobnov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A control room for the Russian state media broadcaster RT, in Moscow, in 2018.</media:description>
+    </item>
+    <item>
+      <title>How Dangerous Is PFAS in Food?</title>
+      <link>https://www.nytimes.com/2024/09/21/climate/pfas-chemicals-food-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/climate/pfas-chemicals-food-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/climate/pfas-chemicals-food-health.html" rel="standout"></atom:link>
+      <description>There’s a growing understanding of the health threats of PFAS chemicals in what we eat and drink.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 11:11:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fertilizer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greta Rybus for The New York Times</media:credit>
+      <media:description>PFAS-contaminated beef from a farm in Maine. </media:description>
+    </item>
+    <item>
+      <title>Did PFAS From Sewage Sludge Poison a Family Farm?</title>
+      <link>https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html" rel="standout"></atom:link>
+      <description>Pastures were fertilized with toxic sewage decades ago. Nobody knew, until the cows’ milk was tested.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 11:24:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dairy Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fertilizer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Hampshire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greta Rybus for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Senior Hezbollah Leader Is Killed in Beirut in Israeli Airstrike</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/beirut-israel-hezbollah-airstrike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/beirut-israel-hezbollah-airstrike.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/beirut-israel-hezbollah-airstrike.html" rel="standout"></atom:link>
+      <description>The attack, which Lebanese officials said killed at least 14 and injured more than 60, stoked fears Israel is driving toward a full-blown war on its northern border, even as the fight in Gaza goes on.</description>
+      <dc:creator>Liam Stack, Euan Ward, Aaron Boxerman and Michael Levenson</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 22:51:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-ledeall01-photo-bjgz/20mideast-crisis-ledeall01-photo-bjgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>People gathering at a residential building in Beirut’s southern suburbs that was destroyed by an Israeli airstrike on Friday.</media:description>
+    </item>
+    <item>
+      <title>Remembering Toto Schillaci and a Summer That Changed Soccer</title>
+      <link>https://www.nytimes.com/2024/09/20/world/europe/toto-schillaci-italy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/europe/toto-schillaci-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/europe/toto-schillaci-italy.html" rel="standout"></atom:link>
+      <description>For one month in 1990, Schillaci was the most beloved player in Italy, and one of the most famous players in the world.</description>
+      <dc:creator>Rory Smith</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 19:09:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Juventus (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schillaci, Salvatore (1964-2024)</category>
+      <media:content height="1591" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20rory-toto-kwmt/20rory-toto-kwmt-mediumSquareAt3X.jpg" width="1591"></media:content>
+      <media:credit>Daniel Garcia/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Salvatore Schillaci in 1990, the summer when he burst onto the stage at the World Cup. He died on Wednesday at age 59.</media:description>
+    </item>
+    <item>
+      <title>Israeli Soldiers Throw Three Seemingly Lifeless Palestinians Off a Roof</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/israel-soldiers-palestinian-bodies-roof.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/israel-soldiers-palestinian-bodies-roof.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/israel-soldiers-palestinian-bodies-roof.html" rel="standout"></atom:link>
+      <description>Several videos have emerged of the gruesome scene, but it remains unclear if the three were alive or dead at the time.</description>
+      <dc:creator>Raja Abdulrahim and Aric Toler</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 08:18:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qabatiya (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-west-bank-video-swap-lmtp/20mideast-crisis-west-bank-video-swap-lmtp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Majdi Mohammed/Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Israel’s Attacks on Hezbollah Have Intensified but Stop Short of All-Out War</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/israel-lebanon-attacks-hezbollah-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/israel-lebanon-attacks-hezbollah-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/israel-lebanon-attacks-hezbollah-war.html" rel="standout"></atom:link>
+      <description>Israel is attempting a risky strategy, increasing the intensity of its attacks in an attempt to force Hezbollah to back down, while raising the chances of an aggressive response that devolves into a land war.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 16:37:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-asses-new-cqtv/20mideast-crisis-asses-new-cqtv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bilal Hussein/Associated Press</media:credit>
+      <media:description>People gathering at the scene of an Israeli strike in the southern suburbs of Beirut on Friday.</media:description>
+    </item>
+    <item>
+      <title>Who Is Ibrahim Aqeel, the Hezbollah Commander Targeted by Israel?</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/ibrahim-aqeel-hezbollah-commander-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/ibrahim-aqeel-hezbollah-commander-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/ibrahim-aqeel-hezbollah-commander-what-to-know.html" rel="standout"></atom:link>
+      <description>The senior leader, who had survived multiple assassination attempts, has been sought by the United States for bombings in the 1980s. Here is a closer look.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 10:19:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-targets-qltb/20mideast-crisis-targets-qltb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bilal Hussein/Associated Press</media:credit>
+      <media:description>The scene of an Israeli strike in the southern suburbs of Beirut on Friday.</media:description>
+    </item>
+    <item>
+      <title>Harrods Will Be Sued by Mohamed al-Fayed’s Alleged Victims, Lawyers Say</title>
+      <link>https://www.nytimes.com/2024/09/20/world/europe/mohamed-al-fayed-harrods.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/europe/mohamed-al-fayed-harrods.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/europe/mohamed-al-fayed-harrods.html" rel="standout"></atom:link>
+      <description>Attorneys for 37 women said they would sue Harrods, the luxury department store, over the rape and sexual assault they say its former owner committed.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 18:04:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harrods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fayed, Mohamed al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/20/world/20uk-harrods/20uk-harrods-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Shaun Curry/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Mohamed al-Fayed in 2008. A BBC documentary this week detailed allegations that Mr. al-Fayed, who died last year, had raped and sexually assaulted multiple female employees.</media:description>
+    </item>
+    <item>
+      <title>After Pager Attack, Israel and Hezbollah Return to Familiar Deadlock</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/israel-hezbollah-pager-attack-standoff.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/israel-hezbollah-pager-attack-standoff.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/israel-hezbollah-pager-attack-standoff.html" rel="standout"></atom:link>
+      <description>Israel’s attack on Hezbollah’s communication devices raised expectations of a decisive shift in their war of attrition. Instead, the fighting has returned to a standoff.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 13:24:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-assess-vlkp/20mideast-crisis-assess-vlkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hezbollah supporters mourning the deaths of two people during a second wave of explosions that struck Lebanon following the pager bomb attack.</media:description>
+    </item>
+    <item>
+      <title>China To ‘Gradually’ Resume Imports of Japanese Seafood</title>
+      <link>https://www.nytimes.com/2024/09/20/world/asia/china-japan-seafood-ban-fukushima.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/asia/china-japan-seafood-ban-fukushima.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/asia/china-japan-seafood-ban-fukushima.html" rel="standout"></atom:link>
+      <description>China imposed a ban last year after Japan began releasing treated water from the Fukushima nuclear plant into the sea. They have agreed to expand monitoring of the water.</description>
+      <dc:creator>Daisuke Wakabayashi, Kiuko Notoya and Claire Fu</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 11:53:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fukushima Daiichi Nuclear Power Plant (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fukushima (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seafood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tokyo Electric Power Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Wastes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kishida, Fumio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20china-japan-01-jbwk/20china-japan-01-jbwk-mediumSquareAt3X.jpg" width="1366"></media:content>
+      <media:credit>Jiji Press, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Sorting seafood at a port in the Fukushima prefecture of Japan last September, days after Japan started discharging treated water from the crippled nuclear plant nearby.</media:description>
+    </item>
+    <item>
+      <title>With Focus Shifting to Lebanon, Some in Gaza Fear Cease-Fire Talks Will Be Sidelined</title>
+      <link>https://www.nytimes.com/2024/09/20/world/middleeast/gaza-cease-fire-talks-hezbollah-lebanon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/gaza-cease-fire-talks-hezbollah-lebanon.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/gaza-cease-fire-talks-hezbollah-lebanon.html" rel="standout"></atom:link>
+      <description>Even as Israel signals that it is moving its focus to its northern border with Lebanon, there has been no pause to its bombardment in Gaza, where residents are facing another winter with little access to food or shelter.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 02:52:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-gaza-war-01-fqzt/20mideast-crisis-gaza-war-01-fqzt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mohammed Saber/EPA, via Shutterstock</media:credit>
+      <media:description>Palestinians walk past rubble in Bureij in central Gaza on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Three Mile Island Plans to Reopen as Demand for Nuclear Power Grows</title>
+      <link>https://www.nytimes.com/2024/09/20/climate/three-mile-island-reopening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/climate/three-mile-island-reopening.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/climate/three-mile-island-reopening.html" rel="standout"></atom:link>
+      <description>The infamous plant, closed since 2019, is getting a new lease on life after Microsoft agreed to buy its electricity to supply a growing fleet of data centers.</description>
+      <dc:creator>Brad Plumer</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 11:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Three Mile Island (Pa)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/19/climate/00cli-ThreeMileIsland/00cli-ThreeMileIsland-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Caballero-Reynolds/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Three Mile Island nuclear plant in Londonderry Township, Pa.</media:description>
+    </item>
+    <item>
+      <title>A North Korean Trash Balloon Hits a Seoul Government Compound, Again</title>
+      <link>https://www.nytimes.com/2024/09/20/world/asia/north-korea-trash-balloon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/asia/north-korea-trash-balloon.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/asia/north-korea-trash-balloon.html" rel="standout"></atom:link>
+      <description>Debris was found more than a day after the North’s latest balloon launch. South Korea says it’s essentially impossible to track every balloon.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 10:39:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20xp-korea-jkwv/20xp-korea-jkwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yonhap, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>A view from Paju, South Korea, of balloons launched by North Korea earlier this month.</media:description>
+    </item>
+    <item>
+      <title>Biden Will Take Cancer ‘Moonshot’ Global at Summit in Delaware</title>
+      <link>https://www.nytimes.com/2024/09/20/us/politics/biden-cancer-moonshot-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/us/politics/biden-cancer-moonshot-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/us/politics/biden-cancer-moonshot-summit.html" rel="standout"></atom:link>
+      <description>The president will join the leaders of Australia, India and Japan to announce a new initiative for reducing cervical cancer in the Indo-Pacific, a region with especially high rates of the disease.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 09:05:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cervical Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Papillomavirus (HPV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gavi, the Vaccine Alliance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wilmington (Del)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Caroline</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20dc-moonshot-czpw/20dc-moonshot-czpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden in August. He began his cancer initiative in 2016, when he was vice president, after the death of his son Beau from an aggressive brain cancer.</media:description>
+    </item>
+    <item>
+      <title>In Australia, an Old-Fashioned Art Is Having a Revival</title>
+      <link>https://www.nytimes.com/2024/09/20/world/australia/stained-glass.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/australia/stained-glass.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/australia/stained-glass.html" rel="standout"></atom:link>
+      <description>Young practitioners are helping make stained glass, which fell out of fashion over two decades ago, a vibrant art form in Australia once again.</description>
+      <dc:creator>Julia Bergin</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 07:38:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stained Glass</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2018/07/05/dining/20ozletter-stainedglass/20ozletter-stainedglass-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dean Swindell for The New York Times</media:credit>
+      <media:description>Australian-themed stained glass windows in Queensland, Australia, in 2018.</media:description>
+    </item>
+    <item>
+      <title>Israel Strikes Hezbollah as Nasrallah Vows Retribution</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/israel-lebanon-hezbollah-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/israel-lebanon-hezbollah-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/israel-lebanon-hezbollah-strikes.html" rel="standout"></atom:link>
+      <description>The Hezbollah leader, Hassan Nasrallah, did not say how his group would respond to attacks on hand-held devices, which killed dozens when pagers and walkie-talkies exploded.</description>
+      <dc:creator>Aaron Boxerman and Euan Ward</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 22:26:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-leadall-01-vwgj/19mideast-crisis-leadall-01-vwgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hezbollah supporters in Beirut on Thursday mourned the deaths of two of their members in a second wave of explosions that struck Lebanon.</media:description>
+    </item>
+    <item>
+      <title>Walkie-Talkie and Pager Attacks Against Hezbollah Set Off Legal Debate</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/pagers-hezbollah-israel-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/pagers-hezbollah-israel-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/pagers-hezbollah-israel-attacks.html" rel="standout"></atom:link>
+      <description>Experts are at odds over the question of whether it violates the laws of war to hide explosives in wireless devices that may go off near civilians.</description>
+      <dc:creator>Matthew Mpoke Bigg and Ephrat Livni</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 07:32:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-human-rights-1-qfzc/19mideast-crisis-human-rights-1-qfzc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Relatives and friends mourning Fatima Abdullah, 9, who was killed by a pager explosion.</media:description>
+    </item>
+    <item>
+      <title>Friday Briefing: Israel Bombards Hezbollah</title>
+      <link>https://www.nytimes.com/2024/09/19/briefing/israel-lebanon-hezbollah-us-polls-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/briefing/israel-lebanon-hezbollah-us-polls-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/briefing/israel-lebanon-hezbollah-us-polls-ukraine.html" rel="standout"></atom:link>
+      <description>Plus, French drag is here to stay.</description>
+      <dc:creator>Gaya Gupta</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 21:11:15 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20ambriefing-asia-mideast/20ambriefing-asia-mideast-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>A Hezbollah supporter at a funeral for four people killed in the pager attacks.</media:description>
+    </item>
+    <item>
+      <title>U.N. Says Israeli War in Gaza Has ‘Catastrophic Consequences’ for Children</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/un-israel-gaza-war-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/un-israel-gaza-war-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/un-israel-gaza-war-children.html" rel="standout"></atom:link>
+      <description>Israel has long blamed Hamas for civilian and children deaths, arguing that the militant group uses innocent people as human shields.</description>
+      <dc:creator>Nick Cumming-Bruce</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 20:34:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Committee on the Rights of the Child</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-UN-gaza-children-ltqb/19mideast-crisis-UN-gaza-children-ltqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jehad Alshrafi/Associated Press</media:credit>
+      <media:description>Palestinian children after a strike in Khan Younis, in southern Gaza, in July.</media:description>
+    </item>
+    <item>
+      <title>Hezbollah Leader Says Israel Will Face Retribution After Lebanon Explosions</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/hezbollah-nasrallah-israel-lebanon-explosions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/hezbollah-nasrallah-israel-lebanon-explosions.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/hezbollah-nasrallah-israel-lebanon-explosions.html" rel="standout"></atom:link>
+      <description>Hassan Nasrallah refused to say when or how Hezbollah would take revenge. As he spoke, Israeli fighter jets swooped low over Beirut.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 20:22:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-nasrallah-gmvk/19mideast-crisis-nasrallah-gmvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hassan Nasrallah, Hezbollah’s leader, in his first televised remarks in Lebanon on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Says Russia Hits Nursing Home Near Border, Killing 1</title>
+      <link>https://www.nytimes.com/2024/09/19/world/europe/ukraine-russia-nursing-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/europe/ukraine-russia-nursing-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/europe/ukraine-russia-nursing-home.html" rel="standout"></atom:link>
+      <description>A dozen other people were injured, some seriously, in the attack in the city of Sumy, which has come under increased bombardment since Ukraine’s offensive into Russia’s nearby Kursk region.</description>
+      <dc:creator>Maria Varenikova</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 18:16:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sumy (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kursk (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1666" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19ukraine-attack-hvgt/19ukraine-attack-hvgt-mediumSquareAt3X.jpg" width="1664"></media:content>
+      <media:credit>Ukraine&#39;s Emergency Service, via Associated Press</media:credit>
+      <media:description>An image released by Ukraine’s Emergency Service showed an older woman being assisted after a Russian strike hit a care home in Sumy, Ukraine, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Edmundo González, Venezuela’s Opposition Leader, Says He Was Forced to Sign Letter Recognizing Maduro</title>
+      <link>https://www.nytimes.com/2024/09/19/world/americas/venezuela-letter-edmundo-gonzalez.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/americas/venezuela-letter-edmundo-gonzalez.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/americas/venezuela-letter-edmundo-gonzalez.html" rel="standout"></atom:link>
+      <description>Edmundo González said the government made him sign a document recognizing President Nicolás Maduro as the election winner before he could flee to Spain.</description>
+      <dc:creator>Julie Turkewitz and Genevieve Glatsky</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 18:37:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Letters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Edmundo (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19venezuela-zvhp/19venezuela-zvhp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ariana Cubillos/Associated Press</media:credit>
+      <media:description>The Venezuelan opposition presidential candidate, Edmundo González, at a political event in June. He has since fled to Spain.</media:description>
+    </item>
+    <item>
+      <title>Prehistoric Earth Was Very Hot. That Offers Clues About Future Earth.</title>
+      <link>https://www.nytimes.com/2024/09/19/climate/prehistoric-earth-temperatures.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/climate/prehistoric-earth-temperatures.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/climate/prehistoric-earth-temperatures.html" rel="standout"></atom:link>
+      <description>At times during the past half-billion years, carbon dioxide warmed our planet more than previously thought, according to a new reconstruction of Earth’s deep past.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 18:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smithsonian Institution</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/19/climate/19cli-EARTH-TEMPS/19cli-EARTH-TEMPS-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Felix Images/Alamy</media:credit>
+      <media:description>An artist’s impression of life on Earth during the Carboniferous Period, 300 million years ago.</media:description>
+    </item>
+    <item>
+      <title>Nintendo and Pokémon Sue Palworld Maker for Patent Infringement</title>
+      <link>https://www.nytimes.com/2024/09/19/arts/nintendo-pokemon-lawsuit-pocketpair-palworld.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/arts/nintendo-pokemon-lawsuit-pocketpair-palworld.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/arts/nintendo-pokemon-lawsuit-pocketpair-palworld.html" rel="standout"></atom:link>
+      <description>Palworld, a video game mocked as “Pokémon with guns,” became one of the most popular games in the world when it was released in January.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 17:48:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pokemon (Fictional Characters)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nintendo Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pokemon Co International Inc</category>
+    </item>
+    <item>
+      <title>Interest Rates Fall, but Central Banks Are No Longer in Lock Step</title>
+      <link>https://www.nytimes.com/2024/09/19/business/economy/central-bank-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/business/economy/central-bank-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/business/economy/central-bank-interest-rates.html" rel="standout"></atom:link>
+      <description>Officials in some countries started cutting rates last year, but others, including those in Europe and the United States, have taken a more cautious approach.</description>
+      <dc:creator>Eshe Nelson and Karl Russell</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 17:36:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/2024-09-19-policy-rate-changes-since-june-index/2024-09-19-policy-rate-changes-since-june-index-mediumSquareAt3X.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A New Era in Sabotage: Turning Ordinary Devices Into Grenades, on a Mass Scale</title>
+      <link>https://www.nytimes.com/2024/09/19/us/politics/israel-hezbollah-pager-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/us/politics/israel-hezbollah-pager-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/us/politics/israel-hezbollah-pager-attacks.html" rel="standout"></atom:link>
+      <description>The attacks in Lebanon required getting deep into the supply chain, which is difficult to do. But the sabotage contributes to a sense of vulnerability that ordinary devices can become a source of danger.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 16:28:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19DC-ASSESS-SABOTAGE-01-zvml/19DC-ASSESS-SABOTAGE-01-zvml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anwar Amro/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A portable radio with the battery removed during a funeral in Beirut, Lebanon, on Wednesday. The presumed Israeli sabotage of wireless devices used by Hezbollah turned ordinary communication devices into miniature grenades.</media:description>
+    </item>
+    <item>
+      <title>Mali Attack Killed 50 or More, but Leaders Say Little</title>
+      <link>https://www.nytimes.com/2024/09/19/world/africa/mali-bamako-attack-jnim.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/africa/mali-bamako-attack-jnim.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/africa/mali-bamako-attack-jnim.html" rel="standout"></atom:link>
+      <description>Days after the West African country’s ruling military was ambushed by Islamist rebels, it has sought to hide the true extent of the carnage.</description>
+      <dc:creator>Elian Peltier and Christiaan Triebert</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 01:23:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bamako (Mali)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goita, Assimi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jama&#39;at Nusrat al-Islam wal-Muslimin (JNIM)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-video</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mali-01-blfz/19mali-01-blfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hadama Diakite/EPA, via Shutterstock</media:credit>
+      <media:description>Crowds near the site of Tuesday’s attack, when Islamist rebels killed at least 50 members of Mali’s armed forces in an assault on the capital, Bamako.</media:description>
+    </item>
+    <item>
+      <title>Asphalt Schoolyards Get a Shady Makeover</title>
+      <link>https://www.nytimes.com/2024/09/19/climate/school-playgrounds-shade-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/climate/school-playgrounds-shade-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/climate/school-playgrounds-shade-heat.html" rel="standout"></atom:link>
+      <description>Schools across the country are adding trees, tent-like structures and water to their playgrounds as temperatures soar.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 15:22:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playgrounds</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/17/multimedia/00CLI-schoolyard-01-glkj/00CLI-schoolyard-01-glkj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Caitlin O&#39;Hara for The New York Times</media:credit>
+      <media:description>Recess at Highland Arts Elementary School in Mesa, Ariz.</media:description>
+    </item>
+    <item>
+      <title>Pager Attack Highlights Tension Between Israel’s Might and Strategic Fog</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/israel-hezbollah-lebanon-hamas-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/israel-hezbollah-lebanon-hamas-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/israel-hezbollah-lebanon-hamas-gaza.html" rel="standout"></atom:link>
+      <description>In Gaza, Lebanon and Iran, Israel has shown it’s capable of extraordinary acts of espionage, but is struggling to define long-term goals, according to Israeli analysts and public figures.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 16:26:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19israel-asses-1-qmpf/19israel-asses-1-qmpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anwar Amro/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Lebanese army soldiers standing guard as an ambulance rushes wounded people to a hospital in Beirut on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Mohamed al-Fayed, Former Harrods Owner, Accused of Raping 5 Women</title>
+      <link>https://www.nytimes.com/2024/09/19/world/europe/mohamed-al-fayed-harrods-rape.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/europe/mohamed-al-fayed-harrods-rape.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/europe/mohamed-al-fayed-harrods-rape.html" rel="standout"></atom:link>
+      <description>Multiple former employees told the BBC they had been raped or sexually assaulted by the billionaire businessman, who died last year.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 01:21:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harrods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fayed, Mohamed al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/01-kthl/01-kthl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Shaun Curry/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Mohamed al-Fayed, then owner of Harrods, in 2007. On Thursday, a BBC documentary detailed allegations that he had raped and sexually assaulted female employees.</media:description>
+    </item>
+    <item>
+      <title>Saudi Crown Prince Says No to Israel Ties Without Palestinian State</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/saudi-israel-relations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/saudi-israel-relations.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/saudi-israel-relations.html" rel="standout"></atom:link>
+      <description>His comments reflect an apparent toughening of his views on an issue that could reshape the diplomatic map of the Middle East.</description>
+      <dc:creator>Ismaeel Naar and Adam Rasgon</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 12:43:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="1446" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-saudi-mbs-1-wmfz/19mideast-crisis-saudi-mbs-1-wmfz-mediumSquareAt3X.jpg" width="1445"></media:content>
+      <media:credit>Saudi Press Agency</media:credit>
+      <media:description>In a photo provided by Saudi state media, Saudi Crown Prince Mohammed bin Salman delivers a speech in Riyadh, Saudi Arabia, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Anxiety Mounts as Lebanon Reels From Pager and Walkie-Talkie Attacks</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/lebanon-hezbollah-explosions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/lebanon-hezbollah-explosions.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/lebanon-hezbollah-explosions.html" rel="standout"></atom:link>
+      <description>People across the country were avoiding their cellphones and unplugging baby monitors and laptops, after two days of attacks on Hezbollah-owned devices that amplified fears of an all-out war with Israel.</description>
+      <dc:creator>Euan Ward</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 20:57:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/18mideast-crisis-lebanon-mood3/209schmemann-cmqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>A Hezbollah supporter on Wednesday at a funeral for four people killed in the pager attacks.</media:description>
+    </item>
+    <item>
+      <title>Israel and Hezbollah Trade Fire After Pager and Walkie-Talkie Attacks</title>
+      <link>https://www.nytimes.com/2024/09/19/world/middleeast/israel-hezbollah-missiles-pager-walkie-talkie-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/middleeast/israel-hezbollah-missiles-pager-walkie-talkie-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/middleeast/israel-hezbollah-missiles-pager-walkie-talkie-attack.html" rel="standout"></atom:link>
+      <description>Anti-tank missiles fired from Lebanon caused injuries, Israel’s public broadcaster reported. The Israeli military said it had struck several Hezbollah sites in Lebanon.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 14:00:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sea of Galilee (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-strikes-sub-zvbw/19mideast-crisis-strikes-sub-zvbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ammar Ammar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Smoke billowed from the site of an Israeli airstrike in the southern Lebanese village of al-Taybeh on Thursday.</media:description>
+    </item>
+    <item>
+      <title>They Said the Virgin Mary Appeared. The Vatican Is Finally Weighing In.</title>
+      <link>https://www.nytimes.com/2024/09/19/world/europe/medjugorje-virgin-mary-vatican.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/europe/medjugorje-virgin-mary-vatican.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/europe/medjugorje-virgin-mary-vatican.html" rel="standout"></atom:link>
+      <description>After decades, and controversy, the Vatican has authorized public worship at a shrine in Bosnia, where a once tranquil village has become a major pilgrimage site.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 21:52:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benedict XVI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Medjugorje (Bosnia and Herzegovina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mary, Mother of Jesus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19vatican-virgin-01-wlzk/19vatican-virgin-01-wlzk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ziyah Gafic for The New York Times</media:credit>
+      <media:description>Pilgrims gathered in 2015 above the Bosnian village of Medjugorje to pray to the Virgin Mary.</media:description>
+    </item>
+    <item>
+      <title>Their Countries Are at War. These Couples Are Still Together.</title>
+      <link>https://www.nytimes.com/2024/09/19/world/europe/ukraine-russia-war-couples.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/europe/ukraine-russia-war-couples.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/europe/ukraine-russia-war-couples.html" rel="standout"></atom:link>
+      <description>Relationships between Ukrainians and Russians have long been common. Russia’s invasion has brought stigma, separation, legal troubles and a reconsideration of identity.</description>
+      <dc:creator>Laura Boushnak, Alan Yuhas and Oleksandra Mykolyshyn</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 09:01:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Siberia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+    </item>
+    <item>
+      <title>Methane Levels Still Rising, Despite Global Methane Pledge</title>
+      <link>https://www.nytimes.com/2024/09/19/climate/us-methane-greenhouse-gas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/climate/us-methane-greenhouse-gas.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/climate/us-methane-greenhouse-gas.html" rel="standout"></atom:link>
+      <description>Satellite data shows the U.S. releasing more and more of the potent greenhouse gas into the atmosphere, researchers said, despite pledges to cut back.</description>
+      <dc:creator>Max Bearak</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 18:15:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Methane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19cli-methane-kfqc/19cli-methane-kfqc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Goldman/Associated Press</media:credit>
+      <media:description>The concentration of methane in the atmosphere is now more than two-and-a-half times greater than preindustrial levels.</media:description>
+    </item>
+    <item>
+      <title>Tropical Storm Pulasan Nears Shanghai After Grazing Japan</title>
+      <link>https://www.nytimes.com/2024/09/19/world/asia/tropical-storm-pulasan-shanghai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/19/world/asia/tropical-storm-pulasan-shanghai.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/19/world/asia/tropical-storm-pulasan-shanghai.html" rel="standout"></atom:link>
+      <description>Pulasan made landfall near the Chinese megacity, days after it was hit by its strongest typhoon in decades, bringing flood and landslide risks.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Thu, 19 Sep 2024 11:37:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Okinawa and Other Ryukyu Islands (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19xp-tropicalstorm-tjbg/19xp-tropicalstorm-tjbg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Shanghai was bracing for Tropical Storm Pulasan days after it was battered by Typhoon Bebinca, the strongest to hit the city in 75 years.</media:description>
+    </item>
+    <item>
+      <title>How Israel Built a Modern-Day Trojan Horse: Exploding Pagers</title>
+      <link>https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html" rel="standout"></atom:link>
+      <description>The Israeli government did not tamper with the Hezbollah devices that exploded, defense and intelligence officials say. It manufactured them as part of an elaborate ruse.</description>
+      <dc:creator>Sheera Frenkel, Ronen Bergman and Hwaida Saad</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 13:57:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-reconstruct-01-wqfm/18hezbollah-reconstruct-01-wqfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hezbollah supporters on Wednesday mourning the deaths of four comrades killed in the explosions.</media:description>
+    </item>
+  </channel>
+</rss>
